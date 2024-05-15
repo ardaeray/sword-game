@@ -1,9 +1,4 @@
-/*
-    Arda ERAY
-    Department of Computer Engineering (English)
-    Faculty of Engineering and Natural Science
-    Student ID: 230408051
-*/
+/* Arda ERAY */
 
 import java.util.*;
 
